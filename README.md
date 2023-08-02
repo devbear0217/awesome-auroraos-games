@@ -33,6 +33,7 @@ A curated list of awesome open source games for AuroraOS. Inspired by other awes
 - [Tower](https://github.com/savegame/auroraos-tower) - Tower building PWA game based on AuroraOS WebView
 - [AuroTris](https://gitlab.com/Danyok/aurotris) - Tetris implementation based on QML and Native AuroraOS Silica components. Also a port of SailfishOS game
 - [Lines](https://github.com/monich/harbour-lines) - SailfishOS Lines puzzle game. 100% compatible with AuroraOS
+- [Parking Chaos](https://github.com/ichthyosaurus/harbour-parkingchaos) - SailfishOS clone of Rush Hour game. Almost 100% compatible with AuroraOS, but MakeFile requires some modification: just comment X-HarbourBackup section
 
 ## Shooter
 
