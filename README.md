@@ -6,6 +6,7 @@ A curated list of awesome open source games for AuroraOS. Inspired by other awes
 
 - [Turn-Based Strategy (TBS)](#turn-based-strategy-tbs)
 - [Puzzle](#puzzle)
+- [Shooter](#shooter)
 
 ## Turn-Based Strategy (TBS)
 
@@ -14,3 +15,8 @@ A curated list of awesome open source games for AuroraOS. Inspired by other awes
 ## Puzzle
 
 - [AuroMinesweeper](https://gitlab.com/Danyok/aurominesweeper) - Minesweeper implementation based on QML and Silica
+
+## Shooter
+
+- [Quake II](https://github.com/savegame/sailfish-quake2) - Quake 2 port both available for SailfishOS and AuroraOS
+- [Doom 3](https://github.com/savegame/sailfish-doom3es) - Doom3 port both available for SailfishOS and AuroraOS
