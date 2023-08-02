@@ -16,6 +16,7 @@ A curated list of awesome open source games for AuroraOS. Inspired by other awes
 
 - [AuroMinesweeper](https://gitlab.com/Danyok/aurominesweeper) - Minesweeper implementation based on QML and Silica
 - [Aurora2048](https://gitlab.com/Danyok/aurora2048) - 2048 implementation based on QML and Native AuroraOS Silica components
+- [Tower](https://github.com/savegame/auroraos-tower) - Tower building PWA game based on AuroraOS WebView
 
 ## Shooter
 
