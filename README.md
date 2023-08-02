@@ -5,6 +5,7 @@ A curated list of awesome open source games for AuroraOS. Inspired by other awes
 ## Contents
 
 - [Turn-Based Strategy (TBS)](#turn-based-strategy-tbs)
+- [Puzzle](#puzzle)
 
 ## Turn-Based Strategy (TBS)
 
