@@ -4,6 +4,7 @@ A curated list of awesome open source games for AuroraOS. Inspired by other awes
 
 ## Contents
 
+- [Action](#action)
 - [Arcade](#arcade)
 - [Card Games](#card-games)
 - [Turn-Based Strategy (TBS)](#turn-based-strategy-tbs)
